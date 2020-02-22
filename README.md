@@ -67,11 +67,11 @@ Tampilan utama:
 <br/>
 <br/>
 Tampilan ketika button **ADD** ditekan:
-![pictures](soal-6/capture/6c-2.png)
+![pictures](soal-6/capture/6c-3.png)
 <br/>
 <br/>
 Tampilan ketika button **Edit** ditekan:
-![pictures](soal-6/capture/6c-3.png)
+![pictures](soal-6/capture/6c-2.png)
 <br/>
 <br/>
 Tampilan ketika button **Delete** ditekan:
