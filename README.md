@@ -20,18 +20,19 @@ cara menjalakan program:
 yang harus disiapkan untuk menjalankan **soal 6**:
 * Install Web Server(Xampp,Lamp,Mamp, dll) karena soal-6 membutuhkan web server dan database server.
 * disini menggunakan **Xampp**
-* clone/download repository **ArkademyBatch13-4** simpan di direktori Web Server, contoh: **xampp (C:/xampp/htdocs/)**
+* clone/download repository **B15K4-D-Bootcamp-Arkademy
+** simpan di direktori Web Server, contoh: **xampp (C:/xampp/htdocs/)**
 
 **Soal 6a** <br/>
-pada folder 6a terdapat file **arkademy_batch_13_4.sql** dan **Query.txt** untuk memunculkan tabel(perintah di soal 6a) dari hasil query.
+pada folder 6a terdapat file **arkademy_batch_15_4_d.sql** dan **Query.txt** untuk memunculkan tabel(perintah di soal 6a) dari hasil query.
 
 cara menjalankan soal 6a:
 * buka aplikasi XAMPP
 * arahkan browser ke url **localhost/phpmyadmin**
-* lalu buat database dengan nama **arkademy_batch_13_2**
+* lalu buat database dengan nama **arkademy_batch_15_4_d**
 * pilih database tersebut
 * setelah itu pergi ke menu **Import**
-* klik **pilih file**, lalu arahkan ke file **arkademy_batch_13_4.sql** pada folder **6a/**
+* klik **pilih file**, lalu arahkan ke file **arkademy_batch_15_4_d.sql** pada folder **6a/**
 * jika sudah klik **go**
 * maka database tadi sudah berisi tabel yang diimport tadi
 * setelah itu masuk ke database tersebut dan klik menu **SQL**
@@ -56,23 +57,23 @@ folder ini menyimpan semua bahan yang diperlukan seperti: **CSS**, **Gambar**, *
 
 cara menjalankan soal 6c:
 * buka aplikasi XAMPP
-* arahkan browser ke url **localhost/ArkademyBatch13-4/soal-6/6c/index.php**
+* arahkan browser ke url **localhost/B15K4-D-Bootcamp-Arkademy/soal-6/6c/index.php**
 * jika berhasil maka tampilannya akan seperti pada **Demo Aplikasi dibawah ini.**
 
 **Demo Aplikasi**
 
 Tampilan utama:
-![pictures](soal-6/capture/6c-1.JPG)
+![pictures](soal-6/capture/6c-1.png)
 <br/>
 <br/>
 Tampilan ketika button **ADD** ditekan:
-![pictures](soal-6/capture/6c-2.JPG)
+![pictures](soal-6/capture/6c-2.png)
 <br/>
 <br/>
 Tampilan ketika button **Edit** ditekan:
-![pictures](soal-6/capture/6c-3.JPG)
+![pictures](soal-6/capture/6c-3.png)
 <br/>
 <br/>
 Tampilan ketika button **Delete** ditekan:
-![pictures](soal-6/capture/6c-4.JPG)
+![pictures](soal-6/capture/6c-4.png)
 <br/>
