@@ -36,7 +36,7 @@ cara menjalankan soal 6a:
 * jika sudah klik **go**
 * maka database tadi sudah berisi tabel yang diimport tadi
 * setelah itu masuk ke database tersebut dan klik menu **SQL**
-* dan paste-kan **Query** yang ada pada file **Query.txt**
+* dan paste-kan **Query** yang ada pada file **readme.txt**
 * lalu klik **go**, maka tampilannya akan sesuai dengan yang diminta oleh soal.
 
 **Soal 6b** <br/>
